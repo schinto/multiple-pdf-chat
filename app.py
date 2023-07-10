@@ -29,8 +29,6 @@ CHUNK_SIZE = 500
 CHUNK_OVERLAP = 100
 
 # TODO:
-# - Create git repository
-# - Add textbox to modify the system prompt.
 # - Select LLM model and model parameters
 # - Select embedding model
 # - Save history to text file
